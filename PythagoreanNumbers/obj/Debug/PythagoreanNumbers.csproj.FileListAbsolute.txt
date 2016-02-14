@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe.config
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.pdb
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.exe
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.pdb

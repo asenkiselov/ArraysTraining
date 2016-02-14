@@ -1,0 +1,6 @@
+C:\Users\asen\documents\visual studio 2015\Projects\ArraysTraining\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb

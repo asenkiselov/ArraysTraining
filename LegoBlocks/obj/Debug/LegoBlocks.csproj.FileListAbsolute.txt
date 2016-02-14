@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LegoBlocks\bin\Debug\LegoBlocks.exe.config
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LegoBlocks\bin\Debug\LegoBlocks.exe
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LegoBlocks\bin\Debug\LegoBlocks.pdb
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LegoBlocks\obj\Debug\LegoBlocks.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LegoBlocks\obj\Debug\LegoBlocks.exe
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\LegoBlocks\obj\Debug\LegoBlocks.pdb

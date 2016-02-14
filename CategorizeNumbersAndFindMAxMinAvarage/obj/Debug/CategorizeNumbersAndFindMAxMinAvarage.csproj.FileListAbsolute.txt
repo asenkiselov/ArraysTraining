@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\CategorizeNumbersAndFindMAxMinAvarage\bin\Debug\CategorizeNumbersAndFindMAxMinAvarage.exe.config
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\CategorizeNumbersAndFindMAxMinAvarage\bin\Debug\CategorizeNumbersAndFindMAxMinAvarage.exe
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\CategorizeNumbersAndFindMAxMinAvarage\bin\Debug\CategorizeNumbersAndFindMAxMinAvarage.pdb
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\CategorizeNumbersAndFindMAxMinAvarage\obj\Debug\CategorizeNumbersAndFindMAxMinAvarage.exe
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\CategorizeNumbersAndFindMAxMinAvarage\obj\Debug\CategorizeNumbersAndFindMAxMinAvarage.pdb
+C:\Users\asen\Documents\Visual Studio 2015\Projects\ArraysTraining\CategorizeNumbersAndFindMAxMinAvarage\obj\Debug\CategorizeNumbersAndFindMAxMinAvarage.csprojResolveAssemblyReference.cache

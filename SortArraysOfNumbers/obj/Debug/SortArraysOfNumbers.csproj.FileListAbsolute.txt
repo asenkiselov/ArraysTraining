@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\SortArraysOfNumbers\bin\Debug\SortArraysOfNumbers.exe.config
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\SortArraysOfNumbers\bin\Debug\SortArraysOfNumbers.exe
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\SortArraysOfNumbers\bin\Debug\SortArraysOfNumbers.pdb
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\SortArraysOfNumbers\obj\Debug\SortArraysOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\SortArraysOfNumbers\obj\Debug\SortArraysOfNumbers.exe
+c:\users\asen\documents\visual studio 2015\Projects\ArraysTraining\SortArraysOfNumbers\obj\Debug\SortArraysOfNumbers.pdb
